@@ -1,7 +1,7 @@
-# FinScore Platform
+# FinScore Platform (open source project)
 
 ## 📌 Project Overview
-The **FinScore Platform** is a cutting-edge M-Marketing and Alternative Financial Scoring ecosystem tailored for Small and Medium Enterprises (SMEs / PMEs) in Tunisia, empowering local businesses to access specialized credit mapping. 
+The **FinScore Platform** is a cutting-edge M-Marketing and Alternative Financial Scoring ecosystem tailored for Small and Medium Enterprises (SMEs / PMEs) in Tunisia, empowering local businesses to access specialized credit mapping. (open source project to encourage alternative bankinh Scoring)
 
 The architecture features a dual portal:
 - **PME Dashboard**: Enables business owners to register their enterprises, connect alternative data pipelines (RNE/CNSS), and unlock advanced financial viability insights.
